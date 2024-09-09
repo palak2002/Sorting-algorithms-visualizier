@@ -4,7 +4,7 @@ This is a web application built using HTML, CSS, Javascript to visualize classic
 
 **Live-** [sorting visualizer](https://dharshakch97.github.io/sort-visualizer/) 
 
-**Code-** [sort visualizer code](https://github.com/dharshakch97/sort-visualizer)
+**Code-** [sort visualizer code](https://github.com/palak2002/Sorting-algorithms-visualizier)
 
 ## Purpose
 
